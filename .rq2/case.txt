@@ -1,0 +1,5 @@
+family=a3
+case_id=a3-google-gemini-gemini-cli-e8a4f6a8c4
+stage=authorized-candidate
+time=20260922T092320Z
+stage=post-authorization-substitution
