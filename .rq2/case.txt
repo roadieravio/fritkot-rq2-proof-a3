@@ -1,0 +1,5 @@
+family=a3
+case_id=a3-aaif-goose-goose-d38adad6bf
+stage=authorized-candidate
+time=20260922T092332Z
+stage=post-authorization-substitution
