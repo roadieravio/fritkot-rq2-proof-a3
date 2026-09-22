@@ -1,0 +1,5 @@
+family=a3
+case_id=a3-huggingface-transformers-4d29e1dfae
+stage=authorized-candidate
+time=20260922T092307Z
+stage=post-authorization-substitution
