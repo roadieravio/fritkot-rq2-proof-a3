@@ -1,0 +1,4 @@
+family=A3
+marker=a3-2-35710107548
+run=35710107548
+sha=7ac1adc0d56bfd596bded7774141296b7bcddc3d
